@@ -29,4 +29,4 @@ This section should introduce your audience to the technical artifacts that foll
 
 ## Journals:
 [These are my narratives for the enhancements.](https://github.com/cryptidcatcher/cryptidcatcher.github.io/tree/Journals)
-I hope that these show off my specific skill improvements and also clarify what specifically I enhanced and why. I also included copies of my journal assignments for my CS 499 class, I think it makes things cohesive! 
+I hope that these show off my skill improvements and also clarify what specifically I enhanced and why. I also included copies of my journal assignments for my CS 499 class, I think it makes things cohesive! 
