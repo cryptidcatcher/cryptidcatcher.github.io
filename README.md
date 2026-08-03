@@ -20,3 +20,13 @@ This section should function as an overall introduction to your skills, not a di
 Summarize and introduce how your artifacts fit together and inform the portfolio as a whole.
 This summary will help demonstrate the full range of your computer science talents and abilities.
 This section should introduce your audience to the technical artifacts that follow the professional self-assessment.
+
+## Original Code Artifacts:
+[My original code is on Github here!](https://github.com/cryptidcatcher/cryptidcatcher.github.io/tree/Initial-Artifacts)
+
+## Enhanced Code:
+[The new and improved updated versions of my artifacts are on Github here!](https://github.com/cryptidcatcher/cryptidcatcher.github.io/tree/Enhancements)
+
+## Journals:
+[These are my narratives for the enhancements.](https://github.com/cryptidcatcher/cryptidcatcher.github.io/tree/Journals)
+I hope that these show off my specific skill improvements and also clarify what specifically I enhanced and why. I also included copies of my journal assignments for my CS 499 class, I think it makes things cohesive! 
