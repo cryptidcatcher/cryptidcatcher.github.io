@@ -25,7 +25,7 @@ This section should introduce your audience to the technical artifacts that foll
 [My original code is on Github here!](https://github.com/cryptidcatcher/cryptidcatcher.github.io/tree/Initial-Artifacts)
 
 ## Enhanced Code:
-[The new and improved updated versions of my artifacts are on Github here!](https://github.com/cryptidcatcher/cryptidcatcher.github.io/tree/Enhancements)
+[The new-and-improved updated versions of my artifacts are on Github here!](https://github.com/cryptidcatcher/cryptidcatcher.github.io/tree/Enhancements)
 
 ## Journals:
 [These are my narratives for the enhancements.](https://github.com/cryptidcatcher/cryptidcatcher.github.io/tree/Journals)
