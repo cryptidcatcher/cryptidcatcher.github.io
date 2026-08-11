@@ -16,7 +16,7 @@ Hello! This is my portfolio for my CS 499 Capstone.
   
   I love data structures and databases! I think that discrete mathematics is a lot of fun, and a lot of what I learned about matrices came in handy when learning about storing data (hash tables, trees, etc.) While software engineering is not my primary interest, I do think it can be fun at times! I have a personal goal of getting skilled enough at C coding that someday I can enter into the Intentionally Obfuscated C Code Contest (IOCCC), which definitely requires foundational coding knowledge. I think that SNHU taught me a lot about best practices in software development! Honestly, I had never even made a proper code flowchart before starting this program. I also learned quite a bit about secure coding practices! It’s important to learn how to write secure code, not just how to find vulnerabilities in existing code. I think that learning is a lifelong process and I look forward to learning more about cybersecurity. Lately, I’ve been having a lot of fun playing around with Burpsuite and learning how to use all the built-in tools in Kali Linux. While I’m certainly far from an expert, I think that this course has given me a good foundation of computer science knowledge to build off. 
   
-_Also, on a personal note, I feel proud to be the first person in my family to get a Bachelor’s degree, especially as a developmentally disabled woman in a STEM field! :-) I have worked hard to get here and am terribly grateful to all my teachers and my counselor for helping me out._
+_Also, on a personal note, I feel proud to be the first person in my family to get a Bachelor’s degree, especially as a disabled woman in a STEM field! :-) I have worked hard to get here and am terribly grateful to all my teachers and my counselor for helping me out._
 
 
 ### Enhancements
@@ -34,6 +34,7 @@ _Also, on a personal note, I feel proud to be the first person in my family to g
   
   The third artifact was meant to demonstrate my understanding of databases. For this enhancement, I used my final project from CS 340: Advanced Programming Concepts. I decided to add In-Memory Caching and Custom Data Structures. I wanted to integrate a custom search-tree algorithm or implement an in-memory caching mechanism using nested dictionaries/hashmaps with the hope of reducing repeated database queries. he original can be found [here](https://github.com/cryptidcatcher/cryptidcatcher.github.io/blob/Initial-Artifacts/CS340%20Project%20Two%20Jasmine%20Procaccini.zip) and the enhancement can be found [here](https://github.com/cryptidcatcher/cryptidcatcher.github.io/blob/Enhancements/CS340%20Enhanced%20Jasmine%20Procaccini.zip).
 
+## Original Code:
 [All original artifact code files are on Github here!](https://github.com/cryptidcatcher/cryptidcatcher.github.io/tree/Initial-Artifacts)
 
 ## Enhanced Code:
